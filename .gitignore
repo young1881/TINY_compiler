@@ -1,0 +1,11 @@
+# clion stuff
+.idea/
+cmake-build-debug
+CMakeLists.txt
+
+# vscode stuff
+.vscode/
+
+# build stuff
+bin/
+*.o

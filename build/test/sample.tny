@@ -1,0 +1,13 @@
+{
+    a test of
+    multi-row comment
+}
+
+read x {this is a comment}
+if 0 < (x + 123) * 456 / 7890 then
+    fac := 1
+    repeat
+        fac := fac * x
+        x := x - 1 until x = 0
+    write fac
+end
